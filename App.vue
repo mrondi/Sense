@@ -50,6 +50,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   color: $vue-blue;
   text-align: center;
+  max-width: 900px;
 }
 
 h1 {
