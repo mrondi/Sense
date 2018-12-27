@@ -3,7 +3,7 @@
     <h1>Sens3</h1>
     <sense></sense>
 
-    <center style="position:absolute; bottom:20px">
+    <center style="position:absolute; bottom:5px">
       <small>BY MAURO RONDINELLI</small>
     </center>
   </div>
