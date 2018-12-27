@@ -2,6 +2,7 @@
   <div>
     <center>
       <input
+        ref="message"
         id="message"
         value=""
         v-model="message"
@@ -41,6 +42,10 @@ export default {
       messageSended: "",
       result: ""
     };
+  },
+
+  mounted() {
+    console.log(this.$refs.message.focus()); //.focus();
   },
   methods: {
     submitMessage() {

@@ -1,10 +1,7 @@
 <template>
   <div id="app">
     <center>
-      <img
-        src="http://icons.iconarchive.com/icons/diversity-avatars/avatars/128/robot-02-icon.png"
-        width="100"
-      /><br />
+      <img src="../../assets/robot.png" width="130" /><br />
       <h1>Sens3</h1>
 
       <p id="how-to">
