@@ -28,6 +28,16 @@
         </center>
       </div>
     </div>
+    <div v-if="!result" id="how-to">
+      <center>
+        <img
+          src="http://icons.iconarchive.com/icons/diversity-avatars/avatars/128/robot-02-icon.png"
+          width="100"
+        /><br />
+        Ingrese una frase arriba (en inglés) y esta inteligencia artificial<br />
+        distinguira si su frase expresa algo positivo o negativo.
+      </center>
+    </div>
   </div>
 </template>
 
