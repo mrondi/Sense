@@ -1,6 +1,17 @@
 <template>
   <div id="app">
-    <h1>Sens3</h1>
+    <center>
+      <img
+        src="http://icons.iconarchive.com/icons/diversity-avatars/avatars/128/robot-02-icon.png"
+        width="100"
+      /><br />
+      <h1>Sens3</h1>
+
+      <p id="how-to">
+        Ingrese una frase arriba (en inglés) y esta inteligencia artificial<br />
+        distinguira si su frase expresa algo positivo o negativo.
+      </p>
+    </center>
     <sense></sense>
 
     <center style="position:absolute; bottom:5px">
@@ -35,10 +46,11 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: $vue-blue;
+  text-align: center;
 }
 
 h1 {
-  text-align: center;
+  margin: 0px;
 }
 
 input#message {
@@ -46,7 +58,7 @@ input#message {
   width: 80%;
   font-size: 15px;
   border-radius: 2px;
-  border: 1px solid #f2f2f2;
+  border: 1px solid #e3e3e3;
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   text-align: center;
 }
