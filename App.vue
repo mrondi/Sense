@@ -2,6 +2,10 @@
   <div id="app">
     <h1>Sens3</h1>
     <sense></sense>
+
+    <center style="position:absolute; bottom:20px">
+      <small>BY MAURO RONDINELLI</small>
+    </center>
   </div>
 </template>
 
