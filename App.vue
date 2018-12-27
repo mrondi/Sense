@@ -16,7 +16,8 @@
 
     <center style="position:absolute; bottom:5px; right:5px">
       <small
-        >BY MAURO RONDINELLI - BUILD WITH VUE.JS / NODE.JS / NODE-NLP</small
+        >BY <b>MAURO RONDINELLI</b> - BUILD WITH
+        <b>VUE.JS / NODE.JS / NODE-NLP</b></small
       >
     </center>
   </div>
