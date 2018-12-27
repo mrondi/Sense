@@ -1,7 +1,7 @@
 {
-  "name": "simple-todo-app-with-vue",
+  "name": "sense",
   "version": "1.0.0",
-  "description": "A very simple todo app to provide a taste of developing with single-file components.",
+  "description": "Sentiment analysis IA",
   "keywords": [],
   "main": "index.js",
   "dependencies": {

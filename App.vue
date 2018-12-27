@@ -8,7 +8,7 @@
       <h1>Sens3</h1>
 
       <p id="how-to">
-        Ingrese una frase arriba (en inglés) y esta inteligencia artificial<br />
+        Ingrese una frase (en inglés) y esta inteligencia artificial<br />
         distinguira si su frase expresa algo positivo o negativo.
       </p>
     </center>
