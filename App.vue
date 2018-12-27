@@ -14,8 +14,10 @@
     </center>
     <sense></sense>
 
-    <center style="position:absolute; bottom:5px">
-      <small>BY MAURO RONDINELLI</small>
+    <center style="position:absolute; bottom:5px; right:5px">
+      <small
+        >BY MAURO RONDINELLI - BUILD WITH VUE.JS / NODE.JS / NODE-NLP</small
+      >
     </center>
   </div>
 </template>
