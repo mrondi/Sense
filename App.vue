@@ -47,6 +47,8 @@ input#message {
   font-size: 15px;
   border-radius: 2px;
   border: 1px solid #f2f2f2;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 
 #results {
