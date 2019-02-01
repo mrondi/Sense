@@ -44,17 +44,16 @@ export default {
     };
   },
 
-  mounted() {
-    console.log(this.$refs.message.focus()); //.focus();
-  },
+  mounted() {},
   methods: {
     submitMessage() {
+      console.log("m:");
       this.messageSended = this.message;
       const { SentimentAnalyzer } = require("node-nlp");
 
       const sentiment = new SentimentAnalyzer({ language: "en" });
       this.result = sentiment.getSentiment(this.messageSended);
-      console.log(this.result); // Score: -2, Comparative: -0.666
+      console.log("m:" + this.message); // Score: -2, Comparative: -0.666
     }
   }
 };

@@ -1,11 +1,11 @@
 {
   "name": "sense",
   "version": "1.0.0",
-  "description": "Sentiment analysis IA",
+  "description": "Sentiment Analysis IA",
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "node-nlp": "2.3.0",
-    "vue": "2.5.3"
+    "node-nlp": "2.3.1",
+    "vue": "2.5.22"
   }
 }
